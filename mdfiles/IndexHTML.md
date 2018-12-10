@@ -1,7 +1,9 @@
-# 道｜Crossed~Paths~ 
-
-*This isn't quite ready yet.* Why don't you check back later? 
 
 
+## Cornucopia of Resources
 
-[Testing testing 1-2-3](/htfiles/HousingInsec.html) 
+* [Housing Insecurity](/htfiles/HousingInsec.html)
+* [Battling Addiction](/htfiles/Addiction.html)
+
+* [Video](https://youtu.be/ceBx85Hhcrk) 
+
